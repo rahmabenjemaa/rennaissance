@@ -7,10 +7,10 @@ function sample() {
     document.write("Hello from sample.js!")
 
 }
-function sayhi(n) {
+function sayHi(n) {
     document.write(n + "is");
 }
-function mouseover() {
+function mouseOver() {
     document.images["im1"].src = "logo.png";
 }
 function mouseout() {
