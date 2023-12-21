@@ -68,6 +68,7 @@ function validateForm() {
         alert("Name must be filled out");
         return false;
     }
+}
 /*var uid = prompt("user id ");
 var pwd = prompt("password");
 if (uid == "rahma") {
